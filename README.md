@@ -71,7 +71,7 @@
 
 #
 
-![Screenshot (75)](https://user-images.githubusercontent.com/106005322/220390765-4dd06cc1-0b9e-4c23-9aec-e6081e4cd63c.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/106005322/220394177-d45394b5-40a2-41f3-8fcc-957850cc022e.png)
 #### but when I check on inspect it shows that the payload is only sent and seen on the client side
 
 #
